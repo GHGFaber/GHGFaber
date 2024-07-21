@@ -1,4 +1,4 @@
-### Hello, my name is Moises!
+### Hello, my name is Moises! 🎧
 
 # About me
 

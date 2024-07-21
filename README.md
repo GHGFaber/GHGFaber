@@ -6,7 +6,7 @@ I'm recent graduate from California State University Bakersfield with a Bachelor
 
 My favorite language is JavaScript!
 
-Currently learning more about React ![](https://github.com/GHGFaber/GHGFaber/blob/main/React.png?raw=true) and Godot! 
+Currently learning more about React <img src="React.png" alt="drawing" width="200"/> and Godot! 
 
 <!--
 **GHGFaber/GHGFaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

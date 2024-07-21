@@ -1,12 +1,12 @@
 ### Hello, my name is Moises!
 
-## About me
+# About me
 
-# I'm recent graduate from California State University Bakersfield with a Bachelor's in Computer Science who's seeking roles in Software Engineering.
+I'm recent graduate from California State University Bakersfield with a Bachelor's in Computer Science who's seeking roles in Software Engineering.
 
-# My favorite language is JavaScript!
+My favorite language is JavaScript!
 
-# Currently learning more about React <img src="React.png" alt="drawing" width="20"/> and Godot <img src="Godot.png" alt="drawing" width="15"/>! 
+Currently learning more about React <img src="React.png" alt="drawing" width="20"/> and Godot <img src="Godot.png" alt="drawing" width="15"/>! 
 
 <!--
 **GHGFaber/GHGFaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

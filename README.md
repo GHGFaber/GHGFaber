@@ -22,6 +22,8 @@ Currently learning more about React <img src="React.png" alt="drawing" width="20
   <img src="https://github-readme-stats.vercel.app/api?username=GHGFaber&show_icons=true" />
 </picture>
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 <!--
 **GHGFaber/GHGFaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
